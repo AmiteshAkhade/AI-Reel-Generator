@@ -1,0 +1,25 @@
+# API keys / secrets
+config.py
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# User uploaded/generated files
+user_uploads/
+
+# Project-generated / temporary files
+done.txt
+ffmpeg_command.txt
+sample_input_ffmpeg.txt
+
+# Generated reels
+static/reels/
